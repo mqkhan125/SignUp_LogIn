@@ -106,3 +106,8 @@
 .submit:hover {
   background: #3a008f;
 }
+
+.gray {
+  background-color: #EAEAEA;
+  color: #676767;
+}
